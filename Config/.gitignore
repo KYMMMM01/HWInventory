@@ -1,0 +1,22 @@
+# Unreal Engine 빌드 산출물
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 기타 IDE 설정
+.vscode/
+
+# OS 파일
+.DS_Store
+Thumbs.db
