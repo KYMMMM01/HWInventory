@@ -1,0 +1,31 @@
+# Unreal Engine 빌드 산출물
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE 파일
+.vs/
+.idea/
+.vscode/
+
+# Visual Studio 자동 생성
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Rider 자동 생성
+*.iml
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 빌드/디버그 심볼
+*.pdb
